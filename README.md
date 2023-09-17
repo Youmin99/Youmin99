@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   [Technologies]
+   <br/>
   <div>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
     <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
