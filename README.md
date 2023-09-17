@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [Technologies]
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </div>
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youmin99&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Youmin99&show_icons=true">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youmin99&layout=compact"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Youmin99&show_icons=true">
 </div>
