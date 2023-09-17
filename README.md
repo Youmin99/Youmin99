@@ -1,4 +1,4 @@
-<div align="center"></div>
+<div align="center">
 ### Hi there 👋
 - 🔭 I’m currently graduated douglas college
 
