@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img alt="typescript" src ="https://img.shields.io/badge/메시지-색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=#3178C6"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youmin99&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Youmin99&show_icons=true">
