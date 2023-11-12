@@ -1,9 +1,9 @@
 ### Hi there 👋
-🔭 I’m graduated douglas college at 2023 May.
-🎖 I'm participated in natHACKS 2023 at NeurAlbertaTech (NAT).
-🐣 I developed serveral projects using a MERN (MongoDB, Express, React, NodeJS) Stack.
-🔥 I’m currently working on Sheen for She Foundation as Web Developer as a volunteer.
-💎 You want to see more detail about me? Please visit my [portfolio website](https://youmin99.github.io/)
+- 🔭 I’m graduated douglas college at 2023 May.
+- 🎖 I'm participated in natHACKS 2023 at NeurAlbertaTech (NAT).
+- 🐣 I developed serveral projects using a MERN (MongoDB, Express, React, NodeJS) Stack.
+- 🔥 I’m currently working on Sheen for She Foundation as Web Developer as a volunteer.
+- 💎 You want to see more detail about me? Please visit my [portfolio website](https://youmin99.github.io/)
 <!--
 **Youmin99/Youmin99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
